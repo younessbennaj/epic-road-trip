@@ -76,7 +76,9 @@ L'expérience va être découpée en plusieurs étapes
 
 ![histogramme des dimensions](./assets/step2-init.png)
 
+
 ![histogramme des dimensions](./assets/step2-selected.png)
+
 
 ![histogramme des dimensions](./assets/step2-details.png)
 
